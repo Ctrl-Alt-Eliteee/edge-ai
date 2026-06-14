@@ -1,0 +1,6 @@
+Temperature,Voltage,Current,Status
+30,5.0,0.2,Healthy
+35,4.8,0.4,Faulty
+40,4.9,0.3,Healthy
+32,5.1,0.2,Healthy
+38,4.7,0.5,Faulty
