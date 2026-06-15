@@ -1,0 +1,1 @@
+A model that performs extremely well on training data but poorly on unseen data is likely overfitting. It has memorized the training examples instead of learning the underlying pattern
