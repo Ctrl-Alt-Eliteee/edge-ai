@@ -1,3 +1,9 @@
+Accuracy:
+
+
+Out of all predictions, how many were correct?
+
+
 Precision:
 
 
