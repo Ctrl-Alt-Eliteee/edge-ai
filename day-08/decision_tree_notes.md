@@ -4,6 +4,8 @@ Decision Tree:
 It is supervised machine learning algorithm used for-
 
 -classification
+
+
 -regression
 
 
