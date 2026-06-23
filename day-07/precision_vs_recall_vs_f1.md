@@ -10,7 +10,7 @@ Precision:
 when the model predicts positive how often is it correct?
 
 
-P = Tp/(TP+FP)
+P = TP/(TP+FP)
 higher the precision --> few false positives
 
 
