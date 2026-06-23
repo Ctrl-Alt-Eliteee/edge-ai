@@ -5,8 +5,14 @@ Output is numerical
 
 Examples:   
 Marks
+
+
 Battery Life
+
+
 Temperature
+
+
 
 
 
@@ -18,5 +24,10 @@ Output is category/class
 
 Examples:
 Healthy/Faulty
+
+
 Spam/Not Spam
+
+
 Cat/Dog
+
