@@ -14,5 +14,9 @@ It makes decisions by asking a series of questions.
 Example:
 
 Is age > 50?
+
+
 ├── Yes → Senior
+
+
 └── No → Adult
