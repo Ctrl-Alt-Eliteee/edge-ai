@@ -13,3 +13,24 @@ What is the ultimate goal of hyperparameter tuning?
 
 To provide good generalization of any model by keeping min_samples_split value medium so that training and testing accuracies would have their highest values and has lowest difference between the two.
 
+
+Q3.
+
+How min_samples_split is different from max_depth?
+
+
+max_depth
+
+Controls:
+
+How deep the tree can grow.
+
+min_samples_split
+
+Controls:
+
+When the tree is allowed to create another split.
+
+Together, they decide how complex the tree becomes.
+
+
