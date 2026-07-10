@@ -53,3 +53,10 @@ poor testing accuracy
 Type of fitting
 
 underfitting
+
+
+| Small Value | Medium Value | Large Value |
+| ----------- | ------------ | ----------- |
+| model       |  good        |model        |
+ undergoes    | generalization undergoes   |
+ overfitting  |              |underfitting |
